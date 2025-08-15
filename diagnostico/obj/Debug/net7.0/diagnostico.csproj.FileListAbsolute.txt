@@ -1,0 +1,14 @@
+C:\Users\Laptop\Downloads\diagnostico\bin\Debug\net7.0\diagnostico.exe
+C:\Users\Laptop\Downloads\diagnostico\bin\Debug\net7.0\diagnostico.deps.json
+C:\Users\Laptop\Downloads\diagnostico\bin\Debug\net7.0\diagnostico.runtimeconfig.json
+C:\Users\Laptop\Downloads\diagnostico\bin\Debug\net7.0\diagnostico.dll
+C:\Users\Laptop\Downloads\diagnostico\bin\Debug\net7.0\diagnostico.pdb
+C:\Users\Laptop\Downloads\diagnostico\obj\Debug\net7.0\diagnostico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Downloads\diagnostico\obj\Debug\net7.0\diagnostico.AssemblyInfoInputs.cache
+C:\Users\Laptop\Downloads\diagnostico\obj\Debug\net7.0\diagnostico.AssemblyInfo.cs
+C:\Users\Laptop\Downloads\diagnostico\obj\Debug\net7.0\diagnostico.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Downloads\diagnostico\obj\Debug\net7.0\diagnostico.dll
+C:\Users\Laptop\Downloads\diagnostico\obj\Debug\net7.0\refint\diagnostico.dll
+C:\Users\Laptop\Downloads\diagnostico\obj\Debug\net7.0\diagnostico.pdb
+C:\Users\Laptop\Downloads\diagnostico\obj\Debug\net7.0\diagnostico.genruntimeconfig.cache
+C:\Users\Laptop\Downloads\diagnostico\obj\Debug\net7.0\ref\diagnostico.dll
